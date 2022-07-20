@@ -1,5 +1,12 @@
 # Changes
 
+## [1.3.3](https://github.com/googleapis/google-cloud-go/compare/pubsublite/v1.3.2...pubsublite/v1.3.3) (2022-07-20)
+
+
+### Bug Fixes
+
+* **pubsublite:** set pubsublite back to grpc-only instead of grpc+rest ([199b725](https://github.com/googleapis/google-cloud-go/commit/199b7250f474b1a6f53dcf0aac0c2966f4987b68))
+
 ## [1.3.2](https://github.com/googleapis/google-cloud-go/compare/pubsublite/v1.3.1...pubsublite/v1.3.2) (2022-06-15)
 
 
